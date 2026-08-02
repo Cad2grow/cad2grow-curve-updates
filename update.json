@@ -1,0 +1,6 @@
+{
+  "version": "0.9.0",
+  "download_url": "https://github.com/Cad2grow/cad2grow-curve-updates/releases/latest/download/Cad2grow_Curve_v0.9.0.rbz",
+  "release_notes": "Added update notification system.",
+  "mandatory": false
+}

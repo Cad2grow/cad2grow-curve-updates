@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/Cad2grow/cad2grow-curve-updates/releases/latest/download/Cad2grow_Curve_v1.0.0_FIXED2.rbz",
-  "release_notes": "Updater enabled, responsive UI improvements and Line to Face fixes.",
+  "version": "1.0.1",
+  "download_url": "https://github.com/Cad2grow/cad2grow-curve-updates/releases/latest/download/Cad2grow_Curve_v1.0.1_UPDATE_TEST.rbz",
+  "release_notes": "Fixed Curve Edge preview glitch, improved Curve Face Push/Pull with precise value input, removed unwanted diagonal lines after curved face extrusion, improved Curve Wall Opening guide and visuals, updated Wall Opening icon, new premium Update icon, and general stability improvements.",
   "mandatory": false
 }
